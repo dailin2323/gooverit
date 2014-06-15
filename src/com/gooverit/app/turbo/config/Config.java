@@ -17,7 +17,7 @@ import com.jfinal.render.ViewType;
  * @Title: Config.java
  * @Package com.gooverit.app.turbo.config
  * @Description: 配置文件
- * @author Turbo,Email:dailin@gmail.com
+ * @author Turbo,Email:dailin2323@gmail.com
  * @date 2014年6月15日 下午4:25:35
  * @Copyright: 2014
  * @version V1.0
@@ -26,7 +26,6 @@ public class Config extends JFinalConfig {
 
 	@Override
 	public void configConstant(Constants me) {
-		//TEST
 		this.loadPropertyFile("/classes/dev/db.properties");
 		me.setDevMode(true);
 		me.setViewType(ViewType.JSP);
