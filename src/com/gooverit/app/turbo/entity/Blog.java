@@ -4,7 +4,7 @@ import com.jfinal.plugin.activerecord.Model;
 import com.jfinal.plugin.activerecord.Page;
 
 /**
- * @Project: turbo
+ * @Project: gooverit
  * @Title: Blog.java
  * @Package com.gooverit.app.turbo.entity
  * @Description: Blog.java

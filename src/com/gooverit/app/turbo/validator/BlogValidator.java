@@ -5,7 +5,7 @@ import com.jfinal.core.Controller;
 import com.jfinal.validate.Validator;
 
 /**
- * @Project: turbo
+ * @Project: gooverit
  * @Title: BlogValidator.java
  * @Package com.gooverit.app.turbo.validator
  * @Description: BlogValidator.java
