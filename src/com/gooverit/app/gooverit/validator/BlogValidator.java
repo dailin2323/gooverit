@@ -1,17 +1,17 @@
-package com.gooverit.app.turbo.validator;
+package com.gooverit.app.gooverit.validator;
 
-import com.gooverit.app.turbo.entity.Blog;
+import com.gooverit.app.gooverit.entity.Blog;
 import com.jfinal.core.Controller;
 import com.jfinal.validate.Validator;
 
 /**
  * @Project: gooverit
  * @Title: BlogValidator.java
- * @Package com.gooverit.app.turbo.validator
+ * @Package com.gooverit.app.gooverit.validator
  * @Description: BlogValidator.java
  * @author Turbo,Email:dailin2323@gmail.com
- * @date 2014年6月15日 下午4:49:23
- * @Copyright: 2014
+ * @date 2014年6月15日 下午11:26:10
+ * @Copyright: 2014 
  * @version V1.0
  */
 public class BlogValidator extends Validator {

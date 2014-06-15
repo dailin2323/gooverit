@@ -1,4 +1,4 @@
-package com.gooverit.app.turbo.interceptor;
+package com.gooverit.app.gooverit.interceptor;
 
 import com.jfinal.aop.Interceptor;
 import com.jfinal.core.ActionInvocation;
@@ -6,10 +6,10 @@ import com.jfinal.core.ActionInvocation;
 /**
  * @Project: gooverit
  * @Title: BlogInterceptor.java
- * @Package com.gooverit.app.turbo.interceptor
+ * @Package com.gooverit.app.gooverit.interceptor
  * @Description: BlogInterceptor.java
  * @author Turbo,Email:dailin2323@gmail.com
- * @date 2014年6月15日 下午11:21:49
+ * @date 2014年6月15日 下午11:26:05
  * @Copyright: 2014 
  * @version V1.0
  */

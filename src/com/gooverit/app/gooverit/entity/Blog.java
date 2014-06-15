@@ -1,4 +1,4 @@
-package com.gooverit.app.turbo.entity;
+package com.gooverit.app.gooverit.entity;
 
 import com.jfinal.plugin.activerecord.Model;
 import com.jfinal.plugin.activerecord.Page;
@@ -6,11 +6,11 @@ import com.jfinal.plugin.activerecord.Page;
 /**
  * @Project: gooverit
  * @Title: Blog.java
- * @Package com.gooverit.app.turbo.entity
+ * @Package com.gooverit.app.gooverit.entity
  * @Description: Blog.java
  * @author Turbo,Email:dailin2323@gmail.com
- * @date 2014年6月15日 下午4:39:32
- * @Copyright: 2014
+ * @date 2014年6月15日 下午11:25:58
+ * @Copyright: 2014 
  * @version V1.0
  */
 @SuppressWarnings("serial")
