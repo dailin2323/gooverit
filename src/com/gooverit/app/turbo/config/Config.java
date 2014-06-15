@@ -13,7 +13,7 @@ import com.jfinal.plugin.c3p0.C3p0Plugin;
 import com.jfinal.render.ViewType;
 
 /**
- * @Project: turbo
+ * @Project: gooverit
  * @Title: Config.java
  * @Package com.gooverit.app.turbo.config
  * @Description: 配置文件

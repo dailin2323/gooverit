@@ -8,7 +8,7 @@ import com.jfinal.core.Controller;
 
 
 /**
- * @Project: turbo
+ * @Project: gooverit
  * @Title: BlogController.java
  * @Package com.gooverit.app.turbo.controller
  * @Description: BlogController.java

@@ -3,7 +3,7 @@ package com.gooverit.app.turbo.controller;
 import com.jfinal.core.Controller;
 
 /**
- * @Project: turbo
+ * @Project: gooverit
  * @Title: CommonController.java
  * @Package com.gooverit.app.turbo.controller
  * @Description: CommonController.java
