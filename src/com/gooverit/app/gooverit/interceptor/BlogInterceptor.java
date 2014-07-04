@@ -10,11 +10,11 @@ import com.jfinal.core.ActionInvocation;
  * @Description: BlogInterceptor.java
  * @author Turbo,Email:dailin2323@gmail.com
  * @date 2014年6月15日 下午11:26:05
- * @Copyright: 2014 
+ * @Copyright: 2014
  * @version V1.0
  */
 public class BlogInterceptor implements Interceptor {
-	
+
 	public void intercept(ActionInvocation ai) {
 		System.out.println("Before invoking " + ai.getActionKey());
 		ai.invoke();

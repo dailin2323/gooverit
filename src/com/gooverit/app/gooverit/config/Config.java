@@ -19,7 +19,7 @@ import com.jfinal.render.ViewType;
  * @Description: Config.java
  * @author Turbo,Email:dailin2323@gmail.com
  * @date 2014年6月15日 下午11:25:36
- * @Copyright: 2014 
+ * @Copyright: 2014
  * @version V1.0
  */
 public class Config extends JFinalConfig {
@@ -33,7 +33,7 @@ public class Config extends JFinalConfig {
 
 	@Override
 	public void configRoute(Routes me) {
-		me.add("/", CommonController.class,"/WEB-INF");
+		me.add("/", CommonController.class, "/WEB-INF");
 	}
 
 	@Override
